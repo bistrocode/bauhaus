@@ -1,0 +1,11 @@
+body {
+    background-color: blanchedalmond;;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;      /* Prevents scrolling entirely */
+    width: 100%;
+    height: 100%;
+  }
